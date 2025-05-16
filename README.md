@@ -1,7 +1,7 @@
 # Predicting Customer Spending Patterns on E-commerce Websites using SVM's
 
 ## Project Overview
-This project implements a Support Vector Machine (SVM) classifier with a polynomial kernel to classify website visitor data. The model aims to predict whether a session resulted in a purchase based on various features. Hyperparameter tuning is performed using GridSearchCV to optimize the model.
+This project uses a Support Vector Machine (SVM) with a polynomial kernel to predict if a website visit led to a purchase. It analyzes session data and uses GridSearchCV to fine-tune the model for better accuracy.
 
 ## Key Features
 - **SVM Classifier with Polynomial Kernel**: Used for classification of visitor sessions.
